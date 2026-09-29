@@ -9,7 +9,7 @@ export function Hero() {
           <div>
             {/* Eyebrow */}
             <div className="mb-10 inline-flex items-center gap-3 rounded-full border border-white/80 bg-white/30 px-5 py-3 backdrop-blur-sm">
-              <span className="h-2 w-2 rounded-full bg-[#dca7b2]" />
+              <span className="h-2 w-2 rounded-full bg-[#15ff00]" />
 
               <span className="text-xs font-medium uppercase tracking-[0.25em] text-[#806672]">
                 Booking open · Savannah, GA
