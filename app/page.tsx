@@ -23,6 +23,7 @@ export default function Home() {
       <Services />
       <Lookbook />
       <Locations />
+      <About />
       <Footer />
     </main>
   );
